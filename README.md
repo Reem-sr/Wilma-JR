@@ -1,2 +1,2 @@
 # Wilma-JR
-Projekti Wilman kehitämisestä
+Projekti Wilman kehittämisestä
